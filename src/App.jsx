@@ -24,7 +24,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-blue-950 text-slate-100 lg:flex lg:items-center lg:justify-center px-4 sm:px-4 lg:px-4 py-4 lg:py-12 gap-8">
+    <div className="min-h-screen bg-[url(https://i.pinimg.com/1200x/af/a3/fb/afa3fb73e331422875e097ab2509a7c5.jpg)] bg-cover text-slate-100 lg:flex lg:items-center lg:justify-center px-4 sm:px-4 lg:px-4 py-4 lg:py-12 gap-18">
       <NotesForm
         header={header}
         setHeader={setHeader}
