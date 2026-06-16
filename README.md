@@ -4,7 +4,7 @@ A beautiful, modern notes application built with React and Tailwind CSS. Create,
 
 ## Screenshot
 
-![Notes App Screenshot](src\assets\notesAppSS.png)
+![Notes App Screenshot](./src/assets/notesAppSS.png)
 
 ## Features
 
